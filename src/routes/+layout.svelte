@@ -40,13 +40,13 @@
 		class="mt-4 flex w-full max-w-screen-xl items-center justify-between px-3 py-4 text-white/40"
 	>
 		<div>
-			<p>Pom.moe is not affiliated with HoYoverse.</p>
+			<p>pom.lon.moe is not affiliated with HoYoverse.</p>
 			<p>
 				Honkai: Star Rail, game content and materials are trademarks and copyrights of HoYoverse.
 			</p>
 		</div>
 		<a
-			href="https://github.com/MadeBaruna/pom-moe"
+			href="https://github.com/rlko/pom"
 			class="duration-150 hover:text-white"
 			target="_blank"
 		>

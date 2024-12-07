@@ -38,7 +38,7 @@
 	<div class="flex h-full w-full max-w-screen-xl items-center px-3">
 		<a class="relative ml-10 select-none pb-2 font-semibold text-white" href="/">
 			<img src="/icons/logo.png" alt="logo" class="absolute -left-10 h-10 w-auto opacity-80" />
-			<span class="text-2xl">Pom</span>
+			<span class="text-2xl">pom.lon</span>
 			<span
 				class="absolute -bottom-1 left-3.5 whitespace-nowrap bg-gradient-to-r from-blue-300 via-purple-300 to-yellow-100 bg-clip-text text-transparent"
 				>.moe</span
